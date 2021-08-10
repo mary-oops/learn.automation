@@ -1,2 +1,7 @@
-# Project exclude paths
+# Default ignored files
+/shelf/
+/.idea/
+/*.iml
 /out/
+/src/learn.automation.iml
+/.DS_Store/
